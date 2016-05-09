@@ -117,6 +117,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/images\/avatar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5669,
+		"inputAbbreviatedPath": "\/images\/avatar.jpg",
+		"outputAbbreviatedPath": "\/images\/avatar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/fulls\/01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
