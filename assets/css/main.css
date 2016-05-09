@@ -1,10 +1,10 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
-@import url(boxmodel.scss);
-@import url(grid.scss);
-@import url(reset.scss);
-@import url(widgets.scss);
+@import url(../sass/_boxmodel.scss);
+@import url(../sass/_grid.scss);
+@import url(../sass/_reset.scss);
+@import url(../sass/_widgets.scss);
 
 
 
